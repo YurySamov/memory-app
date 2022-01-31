@@ -1,0 +1,24 @@
+{
+  "name": "memory-app",
+  "version": "1.0.0",
+  "description": "For quick memorization of any information!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon routes\\server.js", "how_use nodemon": "npm run nodemon" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YurySamov/memory-app.git"
+  },
+  "author": "YurySamov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "bugs": {
+    "url": "https://github.com/YurySamov/memory-app/issues"
+  },
+  "homepage": "https://github.com/YurySamov/memory-app#readme"
+}
