@@ -1,1 +1,2 @@
-console.log("Hello Word!")
+let hi = "Hello Word!"
+console.log(hi)
